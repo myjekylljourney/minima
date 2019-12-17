@@ -4,6 +4,12 @@ title: Coming Soon
 permanlink: /comingsoon/
 ---
 
-1. How I got jekyll running in GitHub.
+How I got jekyll running on GitHub.
 
-1. How to format text in the Markdown files.
+How to add a post.
+
+How to add a page with link at top of page.
+
+How to tewak the current theme.
+
+How to format text in the Markdown files.
