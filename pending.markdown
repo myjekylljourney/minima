@@ -3,7 +3,7 @@ layout: page
 title: Pending
 ---
 
-<h1>Here are all the things that I still did not figure out.<h1>
+<h1>Here are all the things that I still did not figure out.</h1>
 
 1. How to format text in a mrkdown file.
 
