@@ -1,0 +1,3 @@
+I couldnt figure out how to upload the jekyll site i built locally but i found a way to get a site by forking the minima theme.
+basicly there are jekyll themes on github like the defualt one minima. Github gives an option to copy all the files from a different repository so i copied
+them all to my repository and Now i have a live site with all the files that are needed . Ican make all the changes that i need.
