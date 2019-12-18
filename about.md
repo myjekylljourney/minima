@@ -14,7 +14,8 @@ I want a framework that has 4 elements:
 2. Templates that I can edit.
 3. Creates very fast sites.
 4. Has a system to add content without making changes to the original files.
-After digging around I came across an article on Makeuseof.com (check it out it’s a great website).
+
+After digging around I came across an article on <a href="https://www.makeuseof.com/">Makeuseof.com</a> (check it out it’s a great website).
 The article was about static site generators. This seemed to be the answer to all my problems.
 So I downloaded ruby, installed Jekyll and followed all the complex but clear instructions on the Jekyll site. Finally, I had a site. I was expecting something much more elaborate and colorful but that's okay because there are themes, right? 
 I went to one of the links on the Jekyll website and picked out a nice theme. I followed instructions and tried to install it to no avail. I didn’t realize that there are Gem based themes and non gem based themes. All the tutorials discuss gem based themes. I didn't understand why there was no documentation that I could understand for non gem themes.
