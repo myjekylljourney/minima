@@ -3,7 +3,7 @@ layout: page
 title: Pending
 ---
 
-<h2>Here are all the things that I still did not figure out.</h2>
+<h3>Here are some of the things that I still did not figure out.</h3>
 
 2. How to change themes.
 
