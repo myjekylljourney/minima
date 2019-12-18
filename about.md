@@ -8,7 +8,8 @@ Hello,
 
 For a while I have been playing around with different website builders. I tried Wordpress and found the free themes not so customizable and the speed not great. I tried Wix which is really easy to use but a little expensive and very slow.<br> 
 I decided that to build a fast site that looks exactly like I want I need to learn HTML and css. Learning those languages wasn’t so hard. I used w3schools website and YouTube tutorials and really started getting the hang of things.  The problem is that I find it very tedious writing all that code.  Furthermore, I find design difficult which means that I need templates to really get going.<br>
-I was looking for a solution to get around writing all that code and came across HTML templates. There are beautiful free Html5 templates. I downloaded a couple and played around with them.<p> My experience was bad. Making changes makes everything goes wrong. If you change a picture the size gets all messed up. If you want the text to be a little different then it sits wrong. Then you have to open up the css files and dig around and try to fix everything. I found that to be really annoying.</p>
+I was looking for a solution to get around writing all that code and came across HTML templates. There are beautiful free Html5 templates. I downloaded a couple and played around with them.
+<p> My experience was bad. Making changes makes everything goes wrong. If you change a picture the size gets all messed up. If you want the text to be a little different then it sits wrong. Then you have to open up the css files and dig around and try to fix everything. I found that to be really annoying.</p>
 I want a framework that has 4 elements:
 1. Free.
 2. Templates that I can edit.
