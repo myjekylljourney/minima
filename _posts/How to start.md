@@ -9,7 +9,7 @@ There are a few ways to start with Jekyll. I am going to explain the way that I 
 That way we will have all the files and folders we need without downloading and uploading anything.</i>
 
 Go to GitHub.com and create an account. The instructions on the GitHub website are very clear. 
-Once you create an account GitHub will tell you to create a repository. There is no need to do that.
+(Once you create an account GitHub will tell you to create a repository. There is no need to do that.)
 
 Go to the GitHub search bar at the top and search (all GitHub) for <i>minima</i>.
 The first result that will show up is <i>jekyll/minima</i>, click on it. 
