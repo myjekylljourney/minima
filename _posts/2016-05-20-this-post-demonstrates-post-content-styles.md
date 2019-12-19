@@ -105,4 +105,4 @@ lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
 lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
 
 
-![](./assets/DSCF0733.jpg)
+<img src="/assets/DSCF0733.jpg">
