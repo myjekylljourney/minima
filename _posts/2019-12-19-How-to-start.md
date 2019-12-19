@@ -18,7 +18,7 @@ GitHub will now copy all the files from the minima repository to your account.
 
 Congratulations! You have a website!
 So where is it?
-- On the bar at the top open up settings. Scroll down to the GitHub Pages section. Change the source to master branch. 
+- On the bar at the top open up settings. Scroll down to the GitHub Pages section. Change the source to <i>master branch</i>. 
 The page will automatically refresh. Scroll back down to the top of the GitHub Pages section. 
 It should say <i>Your site is ready to be published at:</i>
 If you go to that URL you will see your new site. 
